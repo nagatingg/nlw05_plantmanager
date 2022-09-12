@@ -4,55 +4,56 @@
   <a href="https://www.linkedin.com/in/wesley-alexandre-393044240/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Wesley%20Alexandre-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
   </a>
-  <a href="https://github.com/alexandredev3/plantmanager-nlw05/blob/main/.github/LICENSE.txt">
-    <img alt="GitHub license" src="https://img.shields.io/github/license/alexandredev3/plantmanager-nlw05?logo=mint&style=flat-square">
+  <a href="https://github.com/nagatingg/nlw05_plantmanager/blob/main/.github/LICENSE.txt">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/nagatingg/nlw05_plantmanager?logo=mint&style=flat-square">
   </a>
-  <a href="https://github.com/alexandredev3/plantmanager-nlw05/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/alexandredev3/plantmanager-nlw05?color=29B6D1&style=flat-square">
+  <a href="https://github.com/nagatingg/nlw05_plantmanager/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/nagatingg/nlw05_plantmanager?color=29B6D1&style=flat-square">
   </a>
-  <a href="https://github.com/alexandredev3/plantmanager-nlw05/issues?q=is%3Aissue+is%3Aclosed">
-    <img alt="GitHub issues" src="https://badgen.net/github/closed-issues/alexandredev3/plantmanager-nlw05?color=29B6D1&style=flat-square">
+  <a href="https://github.com/nagatingg/nlw05_plantmanager/issues?q=is%3Aissue+is%3Aclosed">
+    <img alt="GitHub issues" src="https://badgen.net/github/closed-issues/nagatingg/nlw05_plantmanager?color=29B6D1&style=flat-square">
   </a>
-  <a href="https://github.com/alexandredev3/plantmanager-nlw05/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/alexandredev3/plantmanager-nlw05?color=29B6D1&style=flat-square">
+  <a href="https://github.com/nagatingg/nlw05_plantmanager/network">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/nagatingg/nlw05_plantmanager?color=29B6D1&style=flat-square">
   </a>
-  <a href="https://github.com/alexandredev3/podcastr-nlw05/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/alexandredev3/plantmanager-nlw05?color=29B6D1&style=flat-square">
+  <a href="https://github.com/nagatingg/nlw05_plantmanager/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/nagatingg/nlw05_plantmanager?color=29B6D1&style=flat-square">
   </a>
 </h1>
 <p align="center">
-  <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_facing_up-descrição">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#art-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#clipboard-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-Licença">Licença</a>
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-Funcionalidades">Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#closed_book-instalação">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#man-Autor">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-Licença">License</a>
 </p>
 
 <img src="./.github/assets/plantmanager-updated.svg" />
 
 ## :page_facing_up: Descrição
-O Plant Manager é um app para lembrar as pessoas de regar as suas plantinhas.
+Plant Manager is an app to remind people to water their plants.
+Application developed during next week 05 of Rocketseat.
 
 ## :art: Layout
-Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/sPtgdHw6gl5iCtOmauO1y1/PlantManager-(Copy)?node-id=0%3A1">desse link<a>.
+You can access Layout through <a href="https://www.figma.com">Figma<a> through <a href="https://www.figma.com/file/bsmIhpVfafO4nePmifyKqT/PlantManager?node-id=0%3A1">from this link<a>.
 
 ## 🛠 Tecnologias
-Este projeto foi desenvolvido com as seguintes tecnologias
+This project was developed with the following technologies
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Lottie React Native](https://docs.expo.io/versions/latest/sdk/lottie/)
 
-## :clipboard: Funcionalidades
-- [x] Fazer autenticação com o nome.
-- [x] Selecionar planta para ser lembrado de regar.
-- [x] Escolher horário para ser lembrado de regar a planta.
-- [x] Receber uma notificação lembrando você de regar a planta no horário que você escolheu.
-- [x] Remover plantas.
-- [x] Todos os dados são salvos no Local Storage do dispositivo.
+## :clipboard: Functionalities
+- [x] Authenticate with name.
+- [x] Select plant to be reminded to water.
+- [x] Choose time to be reminded to water the plant.
+- [x] Receive a notification reminding you to water the plant at the time you chose.
+- [x] Remove plants.
+- [x] All data is saved in the device's Local Storage.
 
 
 ## :closed_book: Instalação
