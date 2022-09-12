@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="450px" src="./.github/assets/logo.svg" />
+  <img width="450px" src="./.github/assets/preview.png" />
   <br />
   <a href="https://www.linkedin.com/in/wesley-alexandre-393044240/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Wesley%20Alexandre-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
@@ -32,14 +32,14 @@
 
 <img src="./.github/assets/plantmanager-updated.svg" />
 
-## :page_facing_up: Descrição
+## :page_facing_up: Description
 Plant Manager is an app to remind people to water their plants.
 Application developed during next week 05 of Rocketseat.
 
 ## :art: Layout
 You can access Layout through <a href="https://www.figma.com">Figma<a> through <a href="https://www.figma.com/file/bsmIhpVfafO4nePmifyKqT/PlantManager?node-id=0%3A1">from this link<a>.
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 This project was developed with the following technologies
 
 - [React Native](https://reactnative.dev/)
@@ -56,18 +56,18 @@ This project was developed with the following technologies
 - [x] All data is saved in the device's Local Storage.
 
 
-## :closed_book: Instalação
+## :closed_book: Installation
 
-### Pré-requisitos
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo](https://expo.io/), Um dispositivo físico ou um emuldador, Baixe o Expo Client no seu dispositivo para [IOS](https://apps.apple.com/br/app/expo-go/id982107779) ou [Android](https://play.google.com/store/apps/details?id=host.exp.exponent), Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+### Prerequisites
+Before starting, you will need to have the following tools installed on your machine:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo](https://expo.io/), A physical device or an emulator, Download Expo Client on your device to [IOS](https://apps.apple.com/br/app/expo-go/id982107779) or [Android](https://play.google.com/store/apps/details?id=host.exp.exponent), Besides, it's good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
 ```bash
-# Clone este repositório.
-$ git clone https://github.com/alexandredev3/plantmanager-nlw05.git
+# Clone this repository.
+$ git clone https://github.com/nagatingg/nlw05_plantmanager.git
 
 # Vá para a pasta plantmanager-nlw05
-$ cd plantmanager-nlw05
+$ cd nlw05_plantmanager
 
 # Instale as dependências
 $ npm install 
@@ -78,7 +78,7 @@ $ npm run start
 # Leia o Código QR com Expo Client que você baixou no seu dispositivo, não se esqueça de colocar o seu endereço ip lan no diretório ./src/services/api na baseURL.
 ```
 
-## :man: Autor
+## :man: Author
 
 <a href="https://github.com/alexandredev3/">
  <img src="https://avatars0.githubusercontent.com/u/61118233?s=400&u=37870397a9363ce5e768975c05e95a5f5d323ca1&v=4" width="70px;" alt=""/>
