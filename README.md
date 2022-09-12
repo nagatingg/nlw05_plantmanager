@@ -1,7 +1,7 @@
 <h1 align="center">
   <img width="450px" src="./.github/assets/logo.svg" />
   <br />
-  <a href="https://www.linkedin.com/in/wesley-alexandre-393044240/">  https://www.linkedin.com/in/wesley-alexandre-393044240/
+  <a href="https://www.linkedin.com/in/wesley-alexandre-393044240/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Wesley%20Alexandre-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
   </a>
   <a href="https://github.com/alexandredev3/plantmanager-nlw05/blob/main/.github/LICENSE.txt">
