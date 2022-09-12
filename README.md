@@ -91,6 +91,6 @@ Create by Wesley Alexandre :wave::wave: Contact!🚀
 </a>
 
 
-## :memo: Licença
+## :memo: License
 
-Copyright © 2020 [Alexandre Costa](https://github.com/nagatingg).<br />
+Copyright © 2020 [Wesley Alexandre](https://github.com/nagatingg).<br />
