@@ -18,6 +18,7 @@
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/nagatingg/nlw05_plantmanager?color=29B6D1&style=flat-square">
   </a>
 </h1>
+<img src="/assets/preview.png" />
 <p align="center">
   <a href="#page_facing_up-descrição">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#art-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -27,8 +28,6 @@
   <a href="#man-Autor">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-Licença">License</a>
 </p>
-
-<img src="/assets/preview.png" />
 
 ## :page_facing_up: Description
 Plant Manager is an app to remind people to water their plants.
@@ -64,35 +63,34 @@ Before starting, you will need to have the following tools installed on your mac
 # Clone this repository.
 $ git clone https://github.com/nagatingg/nlw05_plantmanager.git
 
-# Vá para a pasta plantmanager-nlw05
+# go to folder nlw05_plantmanager
 $ cd nlw05_plantmanager
 
-# Instale as dependências
+# Install the dependencies
 $ npm install 
 
-# Execute aplicação
+# Run application
 $ npm run start
 
-# Leia o Código QR com Expo Client que você baixou no seu dispositivo, não se esqueça de colocar o seu endereço ip lan no diretório ./src/services/api na baseURL.
+# Scan the QR Code with Expo Client that you downloaded on your device, don't forget to put your lan ip address in ./src/services/api directory in baseURL.
 ```
 
 ## :man: Author
 
-<a href="https://github.com/alexandredev3/">
- <img src="https://avatars0.githubusercontent.com/u/61118233?s=400&u=37870397a9363ce5e768975c05e95a5f5d323ca1&v=4" width="70px;" alt=""/>
+<a href="https://github.com/nagatingg">
+ <img src="https://avatars.githubusercontent.com/u/103395674?v=4" width="70px;" alt=""/>
  <br />
- <sub><b>Alexandre Costa</b></sub>
+ <sub><b>Wesley Alexandre</b></sub>
 </a>
 
 
-Feito com ❤️ por Alexandre Costa :wave::wave: Entre em contato!🚀
+Create by Wesley Alexandre :wave::wave: Contact!🚀
 
-<a href="https://www.linkedin.com/in/alexandre-costa-dos-santos">
-  <img alt="Linkedin" src="https://img.shields.io/badge/-Alexandre%20Costa-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
+<a href="https://www.linkedin.com/in/wesley-alexandre-393044240/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/-Wesley%20Alexandre-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
 </a>
 
 
 ## :memo: Licença
 
-Copyright © 2020 [Alexandre Costa](https://github.com/alexandredev3).<br />
-This project is [MIT](./.github/LICENSE.txt) licensed.
+Copyright © 2020 [Alexandre Costa](https://github.com/nagatingg).<br />
