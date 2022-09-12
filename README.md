@@ -1,6 +1,4 @@
 <h1 align="center">
-  <img src="/assets/preview.png" />
-  <br />
   <a href="https://www.linkedin.com/in/wesley-alexandre-393044240/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Wesley%20Alexandre-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
   </a>
@@ -30,7 +28,7 @@
   <a href="#memo-Licença">License</a>
 </p>
 
-<img src="./.github/assets/plantmanager-updated.svg" />
+<img src="/assets/preview.png" />
 
 ## :page_facing_up: Description
 Plant Manager is an app to remind people to water their plants.
