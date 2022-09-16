@@ -93,4 +93,4 @@ Create by Wesley Alexandre :wave::wave: Contact!🚀
 
 ## :memo: License
 
-Copyright © 2020 [Wesley Alexandre](https://github.com/nagatingg).<br />
+Copyright © 2022 [Wesley Alexandre](https://github.com/nagatingg).<br />
